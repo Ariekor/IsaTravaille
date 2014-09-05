@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+
+    <ImageButton
+        android:id="@+id/dark_vador"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/darthvader"
+        android:onClick="citerJack" />
+
+    <ImageButton
+        android:id="@+id/master_yoda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/yoda" />
+
+    <ImageButton
+        android:id="@+id/jack_sparrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/sparrow" />
+
+    <TextView
+        android:id="@+id/bouche"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/jack_sparrow"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="118dp"
+        android:text="TextView" />
+
+</RelativeLayout>

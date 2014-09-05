@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array 
+        name="citationsJack">
+        <item 
+            >Je suis le capitaine Jack Sparrow</item>
+        <item 
+            >Ma cacahuète</item>
+        <item 
+            >Le monde est le même ; il est seulement moins attrayant !</item>
+        <item 
+            >Et je n’ai même pas eu besoin de boire une seule goute de rhum !</item>
+        <item 
+            >La mort a une curieuse façon de faire le tri parmi les priorités.</item>
+    </string-array>
+    
+    
+    
+    
+    
+    
+    
+</resources>
