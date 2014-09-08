@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
 	
 	private String [] cit;
 	
-	void citerJack(View vue){
+	public void citerJack(View vue){
 		int index = nbreAleatoire();
 		Resources res = getResources();
 		cit = res.getStringArray(R.array.citationsJack);
@@ -40,11 +40,27 @@ public class MainActivity extends Activity {
 		mBouche.setText(cit[index]);
 		
 	}
-	void citerYoda(View vue){
-		
+	public void citerYoda(View vue){
+		int index = nbreAleatoire();
+		Resources res = getResources();
+		cit = res.getStringArray(R.array.citationsYoda);
+		while(index == dernierNbObtenuYoda)
+		{
+			index = nbreAleatoire();
+		}
+		dernierNbObtenuYoda = index;
+		mBouche.setText(cit[index]);
 	}
-	void citerVader(View vue){
-	
+	public void citerVader(View vue){
+		int index = nbreAleatoire();
+		Resources res = getResources();
+		cit = res.getStringArray(R.array.citationsVader);
+		while(index == dernierNbObtenuVader)
+		{
+			index = nbreAleatoire();
+		}
+		dernierNbObtenuVader = index;
+		mBouche.setText(cit[index]);
 	}
 	int nbreAleatoire(){
 		int nbre;

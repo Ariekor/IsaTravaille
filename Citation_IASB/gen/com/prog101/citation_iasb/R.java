@@ -18,6 +18,8 @@ public final class R {
     }
     public static final class array {
         public static final int citationsJack=0x7f0c0000;
+        public static final int citationsVader=0x7f0c0001;
+        public static final int citationsYoda=0x7f0c0002;
     }
     public static final class attr {
         /**  Custom divider drawable to use for elements in the action bar. 

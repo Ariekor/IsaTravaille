@@ -8,12 +8,14 @@
     <string name="jackQuote3">Le monde est le même ; il est seulement moins attrayant !</string>
     <string name="jackQuote4">Et je n’ai même pas eu besoin de boire une seule goute de rhum !</string>
     <string name="jackQuote5">La mort a une curieuse façon de faire le tri parmi les priorités.</string>
+   
     <string name="darkVadorQuote1">Luke, je suis ton père.</string>
     <string name="darkVadorQuote2">La Force est avec toi jeune Skywalker. Mais tu n\'es pas encore un Jedi.</string>
     <string name="darkVadorQuote3">Votre manque de foi me consterne.</string>
     <string name="darkVadorQuote4">Tu ne connais pas le pouvoir du côté obscur. Je dois obéir à mon maître.</string>
     <string name="darkVadorQuote5">Pour une fois, laisse moi te regarder avec mes propres yeux.</string>
-     <string name="yodaQuote1">Beaucoup encore il te reste à apprendre.</string>
+
+    <string name="yodaQuote1">Beaucoup encore il te reste à apprendre.</string>
     <string name="yodaQuote2"> Que la force soit avec toi.</string>
     <string name="yodaQuote3">N’essaie pas ! Fais-le, ou ne le fais pas ! Il n’y a pas d’essai.</string>
     <string name="yodaQuote4">Un grand guerrier? Personne par la guerre ne devient grand.</string>

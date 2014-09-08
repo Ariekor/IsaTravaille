@@ -12,7 +12,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:src="@drawable/darthvader"
-        android:onClick="citerJack" />
+        android:onClick="citerVader" />
 
     <ImageButton
         android:id="@+id/master_yoda"
@@ -20,7 +20,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
-        android:src="@drawable/yoda" />
+        android:src="@drawable/yoda" 
+        android:onClick="citerYoda"/>
 
     <ImageButton
         android:id="@+id/jack_sparrow"
@@ -28,7 +29,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:src="@drawable/sparrow" />
+        android:src="@drawable/sparrow" 
+        android:onClick="citerJack"/>
 
     <TextView
         android:id="@+id/bouche"

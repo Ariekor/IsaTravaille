@@ -14,7 +14,33 @@
             >La mort a une curieuse façon de faire le tri parmi les priorités.</item>
     </string-array>
     
+    <string-array 
+        name="citationsVader">
+        <item 
+            >Luke, je suis ton père.</item>
+        <item 
+            >La Force est avec toi jeune Skywalker. Mais tu n\'es pas encore un Jedi.</item>
+        <item 
+            >Votre manque de foi me consterne.</item>
+        <item 
+            >Tu ne connais pas le pouvoir du côté obscur. Je dois obéir à mon maître.</item>
+        <item 
+            >Pour une fois, laisse moi te regarder avec mes propres yeux.</item>
+    </string-array>
     
+    <string-array 
+        name="citationsYoda">
+        <item 
+            >Beaucoup encore il te reste à apprendre.</item>
+        <item 
+            >Que la force soit avec toi.</item>
+        <item 
+            >N’essaie pas ! Fais-le, ou ne le fais pas ! Il n’y a pas d’essai.</item>
+        <item 
+            >Un grand guerrier? Personne par la guerre ne devient grand.</item>
+        <item 
+            >Difficile à voir. Toujours en mouvement est l\'avenir.</item>
+    </string-array>
     
     
     
